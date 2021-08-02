@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/React/static/css/main.896ad812.chunk.css",
+    "main.js": "/React/static/js/main.7b9e8df5.chunk.js",
+    "main.js.map": "/React/static/js/main.7b9e8df5.chunk.js.map",
+    "runtime-main.js": "/React/static/js/runtime-main.3ee24e9a.js",
+    "runtime-main.js.map": "/React/static/js/runtime-main.3ee24e9a.js.map",
+    "static/js/2.b699375f.chunk.js": "/React/static/js/2.b699375f.chunk.js",
+    "static/js/2.b699375f.chunk.js.map": "/React/static/js/2.b699375f.chunk.js.map",
+    "static/js/3.1fe1dec5.chunk.js": "/React/static/js/3.1fe1dec5.chunk.js",
+    "static/js/3.1fe1dec5.chunk.js.map": "/React/static/js/3.1fe1dec5.chunk.js.map",
+    "index.html": "/React/index.html",
+    "static/css/main.896ad812.chunk.css.map": "/React/static/css/main.896ad812.chunk.css.map",
+    "static/js/2.b699375f.chunk.js.LICENSE.txt": "/React/static/js/2.b699375f.chunk.js.LICENSE.txt",
+    "static/media/download.2b3d7bb9.svg": "/React/static/media/download.2b3d7bb9.svg",
+    "static/media/heart.c31d61db.svg": "/React/static/media/heart.c31d61db.svg",
+    "static/media/logo.6ce24c58.svg": "/React/static/media/logo.6ce24c58.svg",
+    "static/media/share.5b2eab5d.svg": "/React/static/media/share.5b2eab5d.svg",
+    "static/media/speech-bubble.bbfaa137.svg": "/React/static/media/speech-bubble.bbfaa137.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3ee24e9a.js",
+    "static/js/2.b699375f.chunk.js",
+    "static/css/main.896ad812.chunk.css",
+    "static/js/main.7b9e8df5.chunk.js"
+  ]
+}
