@@ -32,10 +32,10 @@ function Post({author,content,image,date}) {
                      <img src={image} alt="" />
                  </div>
                  <div className="icons">
-                 <span><img src={comment} alt="" /> 482</span>
-                 <span><img src={share} alt="" /> 146</span>
-                 <span><img src={heart} alt="" /> 20</span>
-                 <span><img src={download} alt="" /> 482</span>
+                 <span><img src={comment} alt="" /> &nbsp; 82</span>
+                 <span><img src={share} alt="" /> &nbsp;146</span>
+                 <span><img src={heart} alt="" /> &nbsp;750</span>
+                 <span><img src={download} alt="" /></span>
                  </div>
              </main>
              
