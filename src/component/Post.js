@@ -1,9 +1,9 @@
 import React from 'react';
 import './post.css';
-import share from './share.svg'
-import heart from './heart.svg'
-import comment from './speech-bubble.svg'
-import download from './download.svg'
+import share from '../assets/share.svg'
+import heart from '../assets/heart.svg'
+import comment from '../assets/speech-bubble.svg'
+import download from '../assets/download.svg'
 
 
 
